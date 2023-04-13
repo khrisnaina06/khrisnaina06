@@ -1,8 +1,3 @@
-<!--
-**khrisnaina06/khrisnaina06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <div align="center">
   <h1>Hi there, I'm <a href='https://www.instagram.com/inamenolaksadar/?next=%2F'>Muhammad Khrisna Faisal Zuhri</a><img src="https://github.com/khrisnaina06" width="30px" height="30px"><br/>~ Frontend Web Developer ~</h1>
   <h3>🏠 Kab.Bekasi - Jawa Barat, Indonesia</h3>
